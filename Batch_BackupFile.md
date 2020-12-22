@@ -1,5 +1,5 @@
 # ใช้สำหรับ copy file 
 ~~~
 @echo off
-XCOPY "source path " "destination path" /m /e /-y /a
+XCOPY SOURCE_PATH DESTINATION_PATH /m /e /-y /a
 ~~~
