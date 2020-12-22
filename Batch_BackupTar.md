@@ -3,5 +3,5 @@
 ~~~
 @echo
 set zone=%date:~10,4%%date:~4,2%%date:~7,2%
-7za.exe a -ttar destination_path  Source_path
+7za.exe a -ttar DESTINATION_PATH  SOURCE_PATH
 ~~~
